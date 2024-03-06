@@ -1,0 +1,3 @@
+C:\DevC\Aula 28022024\Aula 28022024\obj\Debug\Aula 28022024.csproj.AssemblyReference.cache
+C:\DevC\Aula 28022024\Aula 28022024\obj\Debug\Aula 28022024.csproj.SuggestedBindingRedirects.cache
+C:\DevC\Aula 28022024\Aula 28022024\obj\Debug\Aula 28022024.csproj.CoreCompileInputs.cache
